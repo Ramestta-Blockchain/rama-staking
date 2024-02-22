@@ -1,6 +1,6 @@
 {
   "name": "@ramestta/rama-staking",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Library for interacting with ramestta staking.",
   "main": "dist/npm.export.js",
   "types": "dist/ts/index.d.ts",
@@ -37,10 +37,10 @@
   },
   "homepage": "https://github.com/Ramestta-Blockchain/rama-staking#readme",
   "peerDependencies": {
-    "@ramestta/ramajs": "^1.0.0"
+    "@ramestta/ramajs": "^1.0.12"
   },
   "devDependencies": {
-    "@ramestta/ramajs": "^1.0.0",
+    "@ramestta/ramajs": "^1.0.12",
     "copy-webpack-plugin": "^6.1.1",
     "cross-env": "^7.0.3",
     "smart-banner-webpack-plugin": "^3.0.1",
